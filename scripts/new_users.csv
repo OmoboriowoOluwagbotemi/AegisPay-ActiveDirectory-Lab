@@ -1,0 +1,5 @@
+Column1,Column2,Column3,Column4,Column5
+FirstName,LastName,SamAccountName,Department,OU
+Kola,Ajayi,fin.kola,Finance,"OU=Finance,OU=HQ,OU=User(s),DC=corp,DC=aegispay,DC=local"
+Zainab,Bello,hr.zainab,HR,"OU=HR,OU=HQ,OU=User(s),DC=corp,DC=aegispay,DC=local"
+Tunde,Okoro,it.tunde,IT,"OU=IT,OU=HQ,OU=User(s),DC=corp,DC=aegispay,DC=local"
